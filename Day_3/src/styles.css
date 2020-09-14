@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.historyItem{
+list-style-type: none;
+border: 1px solid #f42e58;
+margin: 10px;
+padding-top:10px;
+padding-bottom: 10px;
+background-color: #f7e8bc70;
+}
+.ageup{
+margin: 10px;
+padding-top:5px;
+padding-bottom:5px
+}
